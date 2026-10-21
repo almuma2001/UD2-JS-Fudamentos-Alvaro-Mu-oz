@@ -57,5 +57,5 @@ console.log("undefined == 0 ->", undefined == 0);
 
 // 12. "Glow" > "Glee"
 // Resultado: true
-// Explicación: Comparación de strings lexicográfica (según el código Unicode/ASCII de cada carácter de izquierda a derecha). 'G' y 'l' son idénticos; en la tercera letra, 'o' (código 111) es mayor que 'e' (código 101). Por tanto, "Glow" > "Glee" es true.
+// Explicación: Comparación de strings lexicográfica(según el código Unicode/ASCII de cada carácter de izquierda a derecha). 'G' y 'l' son idénticos; en la tercera letra, 'o' (código 111) es mayor que 'e' (código 101). Por tanto, "Glow" > "Glee" es true.
 console.log('"Glow" > "Glee" ->', "Glow" > "Glee");
