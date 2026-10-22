@@ -1,7 +1,5 @@
 # UD2: Fundamentos de JavaScript
 
-Ejercicios prácticos correspondientes a la Unidad 2 de Desarrollo Web en Entorno Cliente
-
 ## Ejercicios
 
 - [Ejercicio 1: Hola, JavaScript](./ej1/index.html)
